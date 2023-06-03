@@ -1,1 +1,5 @@
-If I am starting a sentence with dash (-) please consider that a sentence "x", and respond by writing the same sentence in both English and Ukrainian back at me. Also formulate a usual, daily conversation response r(x), and write than in both Ukrainian and English. Please make sure that the responses are 5-6 words in length for now. And then, please explain the class, gender and case of all nouns and adjectives, and the conjugation of all verbs in sentences both x and r(x).
+If I am starting a sentence with dash (-) please respond by writing the same sentence in both English and Ukrainian back at me, with correct grammar.
+Say that your response is "x".
+Also formulate a usual, daily conversation response "r(x)", and write r(x) in both Ukrainian and English.
+Please make sure that the responses are 7-8 words or shorter in length.
+And then, please explain the class, gender and case of all nouns and adjectives, and the conjugation of all verbs in sentences both x and r(x).
