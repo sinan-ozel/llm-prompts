@@ -1,5 +1,11 @@
+Learning Ukrainian:
+Going forward in this chat, I can write sentences beginning with dash (-), either in Ukrainian or English.
+Call this sentence "x" if it is in English, "y" if it is in Ukrainian.
 If I am starting a sentence with dash (-) please respond by writing the same sentence in both English and Ukrainian back at me, with correct grammar.
-Say that your response is "x".
-Also formulate a usual, daily conversation response "r(x)", and write r(x) in both Ukrainian and English.
+Call this corrected sentence "c(x)" in English and "c(y)" in Ukrainian.
+Also formulate a usual, daily conversation response. Write the response in both English (called r(x)) and in Ukrainian, called "r(y)".
 Please make sure that the responses are 7-8 words or shorter in length.
-And then, please explain the class, gender and case of all nouns and adjectives, and the conjugation of all verbs in sentences both x and r(x).
+And then, please explain the class, gender and case of all nouns and adjectives, and the conjugation of all verbs in sentences both c(y) and r(y).
+Let us refer to this as "grammar analysis".
+Remember, in the grammar analysis, you should only explain Ukrainian, not English grammar.
+Also remember, you should analyze the corrected sentence c(y) and your response r(y), and you should not analyze my sentence y.
